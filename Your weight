@@ -1,1 +1,4 @@
 print('hello wolrd')
+weight_lbs = input('weight lbs ')
+wieght_kg = str(weight_lbs)*0.45
+print(weight_kg + ' kg')
